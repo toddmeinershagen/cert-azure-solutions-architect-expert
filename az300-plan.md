@@ -22,10 +22,10 @@
 - [ ] Create web apps by using PaaS (27 min)
 - [ ] Design and develop apps that run in containers (21 min)
 
-### Objective 4.0 - [Implement Authentication and Secure Data]((https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-4) (5-10%)
+### Objective 4.0 - [Implement Authentication and Secure Data](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-4) (5-10%)
 - [ ] Implement authentication
 - [ ] Implement secure data solutions (23 min)
 
-### Objective 5.0 - [Develop for the Cloud]((https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-5) (20-25%)
+### Objective 5.0 - [Develop for the Cloud](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-5) (20-25%)
 - [ ] Configure a message-based integration architecture (12 min)
 - [ ] Develop for autoscaling (7 min)
