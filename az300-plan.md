@@ -30,6 +30,7 @@
 - [ ] Configure a message-based integration architecture (12 min)
 - [ ] Develop for autoscaling (7 min)
 
+### Study Plan
 
 |    | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
 |--- | --- | --- | --- | --- | --- | --- | --- |
