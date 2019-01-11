@@ -1,7 +1,7 @@
 ## AZ300 Plan
 
 ### Objective 1.0 - [Deploy and Configure Infrastructure](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-1) (25-30%)
-- [ ] Analyze resource utilization and consumption (45 min)
+- [x] Analyze resource utilization and consumption (45 min)
 - [ ] Create and configure storage accounts (33 min)
 - [ ] Create and configure a Virtual Machine (VM) for Windows and Linux (28 min)
 - [ ] Automate deployment of Virtual Machines (VMs) (24 min)
