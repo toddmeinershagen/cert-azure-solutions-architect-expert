@@ -5,8 +5,8 @@
 - [x] Create and configure storage accounts (33 min)
 - [x] Create and configure a Virtual Machine (VM) for Windows and Linux (28 min)
 - [x] Automate deployment of Virtual Machines (VMs) (24 min)
-- [ ] Create connectivity between virtual networks (15 min)
-- [ ] Implement and manage virtual networking (17 min)
+- [x] Create connectivity between virtual networks (15 min)
+- [x] Implement and manage virtual networking (17 min)
 - [ ] Manage Azure Active Directory (AD) (50 min)
 - [ ] Implement and manage hybrid identities (5 min)
 
