@@ -8,7 +8,7 @@
 - [x] Create connectivity between virtual networks (15 min)
 - [x] Implement and manage virtual networking (17 min)
 - [x] Manage Azure Active Directory (AD) (50 min)
-- [ ] Implement and manage hybrid identities (5 min)
+- [x] Implement and manage hybrid identities (5 min)
 
 ### Objective 2.0 - [Implement Workloads and Security](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-2) (20-25%)
 - [ ] Migrate servers to Azure (10 min)
