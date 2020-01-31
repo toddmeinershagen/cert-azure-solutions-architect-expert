@@ -67,10 +67,10 @@
 	* manage and troubleshoot Azure AD Connect
 	* troubleshoot password sync and writeback
 - [ ] Implement solutions that use virtual machines (VM)
-* provision VMs
-* create Azure Resource Manager templates
-* configure Azure Disk Encryption for VMs
-* implement Azure Backup for VMs
+	* provision VMs
+	* create Azure Resource Manager templates
+	* configure Azure Disk Encryption for VMs
+	* implement Azure Backup for VMs
 
 ### Implement workloads and security (25-30%)
 - [ ] Migrate servers to Azure
