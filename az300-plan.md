@@ -10,7 +10,7 @@
 	* create action groups
 	* monitor for unused resources
 	* monitor spend
-	* report on spend
+	* report on spend
 	* utilize Log Search query functions
 	* view alerts in Azure Monitor logs
 	* visualize diagnostics data using Azure Monitor Workbooks
