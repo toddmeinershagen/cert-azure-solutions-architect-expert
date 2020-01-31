@@ -1,41 +1,157 @@
-## AZ300 Plan
+## [AZ300 Plan](https://www.microsoft.com/en-us/learning/exam-az-300.aspx) 
 
-### Objective 1.0 - [Deploy and Configure Infrastructure](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-1) (25-30%)
-- [x] Analyze resource utilization and consumption (45 min)
-- [x] Create and configure storage accounts (33 min)
-- [x] Create and configure a Virtual Machine (VM) for Windows and Linux (28 min)
-- [x] Automate deployment of Virtual Machines (VMs) (24 min)
-- [x] Create connectivity between virtual networks (15 min)
-- [x] Implement and manage virtual networking (17 min)
-- [x] Manage Azure Active Directory (AD) (50 min)
-- [x] Implement and manage hybrid identities (5 min)
+### Deploy and configure infrastructure (40-45%)
+- [ ] Analyze resource utilization and consumption
+	* configure diagnostic settings on resources
+	* create baseline for resources
+	* create and test alerts
+	* analyze alerts across subscription
+	* analyze metrics across subscription
+	* create action groups
+	* monitor for unused resources
+	* monitor spend
+	* report on spend
+	* utilize Log Search query functions
+	* view alerts in Azure Monitor logs
+	* visualize diagnostics data using Azure Monitor Workbooks
+- [ ] Create and configure storage accounts
+	* configure network access to the storage account
+	* create and configure storage account
+	* generate shared access signature
+	* implement Azure AD authentication for storage
+	* install and use Azure Storage Explorer
+	* manage access keys
+	* monitor activity log by using Azure Monitor logs
+	* implement Azure storage replication
+	* implement Azure storage account failover
+- [ ] Create and configure a VM for Windows and Linux
+	* configure high availability
+	* configure monitoring
+	* configure networking
+	* configure storage
+	* configure virtual machine size
+	* implement dedicated hosts
+	* deploy and configure scale sets
+- [ ] Automate deployment of VMs
+	* modify Azure Resource Manager template
+	* configure location of new VMs
+	* configure VHD template
+	* deploy from template
+	* save a deployment as an Azure Resource Manager template
+	* deploy Windows and Linux VMs
+- [ ] Create connectivity between virtual networks
+	* create and configure Vnet peering
+	* create and configure Vnet to Vnet connections
+	* verify virtual network connectivity
+	* create virtual network gateway
+- [ ] Implement and manage virtual networking
+	* configure private IP addressing
+	* configure public IP addresses
+	* create and configure network routes
+	* create and configure network interface
+	* create and configure subnets
+	* create and configure virtual network
+	* create and configure Network Security Groups and Application Security Groups
+- [ ] Manage Azure Active Directory
+	* add custom domains
+	* configure Azure AD Identity Protection
+	* configure Azure AD Join
+	* configure self-service password reset
+	* implement conditional access policies
+	* manage multiple directories
+	* perform an access review
+- [ ] Implement and manage hybrid identities
+	* install and configure Azure AD Connect
+	* configure federation
+	* configure single sign-on
+	* manage and troubleshoot Azure AD Connect
+	* troubleshoot password sync and writeback
+- [ ] Implement solutions that use virtual machines (VM)
+* provision VMs
+* create Azure Resource Manager templates
+* configure Azure Disk Encryption for VMs
+* implement Azure Backup for VMs
 
-### Objective 2.0 - [Implement Workloads and Security](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-2) (20-25%)
-- [ ] Migrate servers to Azure (10 min)
-- [ ] Configure serverless computing (53 min)
-- [ ] Implement application load balancing (33 min)
+### Implement workloads and security (25-30%)
+- [ ] Migrate servers to Azure
+	* migrate servers using Azure Migrate
+- [ ] Configure serverless computing
+	* create and manage objects
+	* manage a Logic App resource
+	* manage Azure Function app settings
+	* manage Event Grid
+	* manage Service Bus
+- [ ] Implement application load balancing
+	* configure application gateway
+	* configure Azure Front Door service
+	* configure Azure Traffic Manager
 - [ ] Integrate on premises network with Azure virtual network
-- [ ] Manage role-based access control (RBAC)
-- [ ] Implement Multi-Factor Authentication (MFA) (29 min)
+	* create and configure Azure VPN Gateway
+	* create and configure site to site VPN
+	* configure ExpressRoute
+	* configure Virtual WAN
+	* verify on premises connectivity
+	* troubleshoot on premises connectivity with Azure
+- [ ] Implement multi factor authentication
+	* configure user accounts for MFA
+	* configure fraud alerts
+	* configure bypass options
+	* configure trusted IPs
+	* configure verification methods
+- [ ] Manage role-based access control
+	* create a custom role
+	* configure access to Azure resources by assigning roles
+	* configure management access to Azure
+	* troubleshoot RBAC
+	* implement Azure Policies
+	* assign RBAC Roles
 
-### Objective 3.0 - [Create and Deploy Apps](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-3) (5-10%)
-- [ ] Create web apps by using PaaS (27 min)
-- [ ] Design and develop apps that run in containers (21 min)
-
-### Objective 4.0 - [Implement Authentication and Secure Data](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-4) (5-10%)
+### Create and deploy apps (5-10%)
+- [ ] Create web apps by using PaaS
+	* create an Azure app service Web App
+	* create documentation for the API
+	* create an App Service Web App for Containers
+	* create an App Service background task by using WebJobs
+	* enable diagnostics logging
+- [ ] Design and develop apps that run in containers
+	* configure diagnostic settings on resources
+	* create a container image by using a Dockerfile
+	* create an Azure Kubernetes Service
+	* publish an image to the Azure Container Registry
+	* implement an application that runs on an Azure Container Instance
+	* manage container settings by using code
+### Implement authentication and secure data (5-10%)
 - [ ] Implement authentication
-- [ ] Implement secure data solutions (23 min)
-
-### Objective 5.0 - [Develop for the Cloud](https://www.microsoft.com/en-us/learning/exam-az-300.aspx#syllabus-5) (20-25%)
-- [ ] Configure a message-based integration architecture (12 min)
-- [ ] Develop for autoscaling (7 min)
-
-### Study Plan
-
-|    | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
-|--- | --- | --- | --- | --- | --- | --- | --- |
-| Week_1<br>Jan 7-13 | +Create Test Account<br>+Analyze Resource Utilization and Consumption<br>+30 mins practice | +Create and Configure Storage Accounts<br>+30 mins practice | +Create and Configure Virtual Machine<br>+Automate Deployment of Virtual Machine<br>+30 mins practice | +Create Connectivity Between Virtual Networks<br>+Implement and manage virtual networking<br>+30 mins practice | +Manage Azure Active Directory<br>+Implement and Manage hybrid identities<br>+30 mins practice | +Assignment 1<br>+45 mins practice | Day off |
-| Week_2<br>Jan 14-20 | +Migrate Servers to Azure<br>+Configure Serverless Computing<br>+30 mins practice | +Implement Application Load Balancing<br>+Integrate On Premise Network with Azure Virtual Network<br>+30 mins practice | +Manage Role-Based Access Control (RBAC)<br>+Implement Multi-Factor Authentication (MFA)<br>+30 mins practice | +Create Web Apps by Using PaaS<br>+Design and Develop Apps That Run in Containers<br>+ 30 mins practice | +Assignment 2<br>+45 mins practice | +Assignment 3<br>+45 mins practice | Day off |
-| Week_3<br>Jan 21-27 | +Implement Authentication<br>+Implement Secure Data Solutions<br>+30 mins practice | +Configure a Message-Based Integration Architecture<br>+Develop for Autoscaling<br>+30 mins practice | +Assignment 4<br>+45 mins practice | +Assignment 5<br>+45 mins practice | +100 mins practice | +100 mins practice | Day off |
-| Week_4<br>Jan 28-Feb 3 | +Review Objective 1<br>+30 mins practice | +Review Objective 2<br>+30 mins practice | +Review Objective 3<br>+30 mins practice | +Review Objective 4<br>+30 mins practice | +Review Objective 5<br>+30 mins practice | +Review Weak Areas | Day off |
-| Week_5<br>Feb 4-6 | +Review Weak Areas | +Review Quizzes | +Test Date |
+	* implement authentication by using certificates, forms-based authentication, tokens, or
+- [ ] Windows-integrated authentication
+	* implement multi-factor authentication by using Azure AD
+	* implement OAuth2 authentication
+	* implement Managed Identities for Azure resources Service Principal authentication
+- [ ] Implement secure data solutions
+	* encrypt and decrypt data at rest and in transit
+	* encrypt data with Always Encrypted
+	* implement Azure Confidential Compute
+	* implement SSL/TLS communications
+	* create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
+### Develop for the cloud and for Azure storage (15-20%)
+- [ ] Configure a message-based integration architecture
+	* configure an app or service to send emails
+	* configure Event Grid
+	* configure the Azure Relay service
+	* create and configure a Notification Hub
+	* create and configure an Event Hub
+	* create and configure a Service Bus
+	* configure queries across multiple products
+- [ ] Develop for autoscaling
+	* implement autoscaling rules and patterns (schedule, operational/system metrics)
+	* implement code that addresses singleton application instances
+	* implement code that addresses transient state
+- [ ] Develop solutions that use Cosmos DB storage
+	* create, read, update, and delete data by using appropriate APIs
+	* implement partitioning schemes
+	* set the appropriate consistency level for operations
+- [ ] Develop solutions that use a relational database
+	* provision and configure relational databases
+	* configure elastic pools for Azure SQL Database
+	* implement Azure SQL Database managed instances
+	* create, read, update, and delete data tables by using code
