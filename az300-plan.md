@@ -17,6 +17,7 @@
 - [ ] Create and configure storage accounts
 	- [ ] configure network access to the storage account
 	- [ ] create and configure storage account
+		- **az storage account create** --resource-group [name] --name [name] --location [location] --sku [sku] --kind [kind]
 	- [ ] generate shared access signature
 	- [ ] implement Azure AD authentication for storage
 	- [ ] install and use Azure Storage Explorer
