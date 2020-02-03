@@ -19,7 +19,7 @@
 	- [ ] create and configure storage account
 		- [az storage account create](https://docs.microsoft.com/en-us/cli/azure/storage/account?view=azure-cli-latest#az-storage-account-create)
 		- [data redundancy options](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
-	- [ ] generate shared access signature
+	- [ ] [generate shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
 	- [ ] implement Azure AD authentication for storage
 	- [ ] install and use Azure Storage Explorer
 	- [ ] manage access keys
