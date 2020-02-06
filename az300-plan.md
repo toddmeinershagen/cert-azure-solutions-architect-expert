@@ -15,7 +15,7 @@
 	- [ ] view alerts in Azure Monitor logs
 	- [ ] visualize diagnostics data using Azure Monitor Workbooks
 - [ ] Create and configure storage accounts
-	- [ ] configure network access to the storage account
+	- [ ] [configure network access to the storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security)
 	- [ ] create and configure storage account
 		- [az storage account create](https://docs.microsoft.com/en-us/cli/azure/storage/account?view=azure-cli-latest#az-storage-account-create)
 		- [data redundancy options](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
