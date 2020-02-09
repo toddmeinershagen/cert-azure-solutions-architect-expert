@@ -108,33 +108,6 @@
 	- [ ] implement Azure Policies
 	- [ ] assign RBAC Roles
 
-### Create and deploy apps (5-10%)
-- [ ] Create web apps by using PaaS
-	- [ ] create an Azure app service Web App
-	- [ ] create documentation for the API
-	- [ ] create an App Service Web App for Containers
-	- [ ] create an App Service background task by using WebJobs
-	- [ ] enable diagnostics logging
-- [ ] Design and develop apps that run in containers
-	- [ ] configure diagnostic settings on resources
-	- [ ] create a container image by using a Dockerfile
-	- [ ] create an Azure Kubernetes Service
-	- [ ] publish an image to the Azure Container Registry
-	- [ ] implement an application that runs on an Azure Container Instance
-	- [ ] manage container settings by using code
-### Implement authentication and secure data (5-10%)
-- [ ] Implement authentication
-	- [ ] implement authentication by using certificates, forms-based authentication, tokens, or
-- [ ] Windows-integrated authentication
-	- [ ] implement multi-factor authentication by using Azure AD
-	- [ ] implement OAuth2 authentication
-	- [ ] implement Managed Identities for Azure resources Service Principal authentication
-- [ ] Implement secure data solutions
-	- [ ] encrypt and decrypt data at rest and in transit
-	- [ ] encrypt data with Always Encrypted
-	- [ ] implement Azure Confidential Compute
-	- [ ] implement SSL/TLS communications
-	- [ ] create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
 ### Develop for the cloud and for Azure storage (15-20%)
 - [ ] Configure a message-based integration architecture
 	- [ ] configure an app or service to send emails
@@ -157,3 +130,32 @@
 	- [ ] configure elastic pools for Azure SQL Database
 	- [ ] implement Azure SQL Database managed instances
 	- [ ] create, read, update, and delete data tables by using code
+
+### Create and deploy apps (5-10%)
+- [ ] Create web apps by using PaaS
+	- [ ] create an Azure app service Web App
+	- [ ] create documentation for the API
+	- [ ] create an App Service Web App for Containers
+	- [ ] create an App Service background task by using WebJobs
+	- [ ] enable diagnostics logging
+- [ ] Design and develop apps that run in containers
+	- [ ] configure diagnostic settings on resources
+	- [ ] create a container image by using a Dockerfile
+	- [ ] create an Azure Kubernetes Service
+	- [ ] publish an image to the Azure Container Registry
+	- [ ] implement an application that runs on an Azure Container Instance
+	- [ ] manage container settings by using code
+	
+### Implement authentication and secure data (5-10%)
+- [ ] Implement authentication
+	- [ ] implement authentication by using certificates, forms-based authentication, tokens, or
+- [ ] Windows-integrated authentication
+	- [ ] implement multi-factor authentication by using Azure AD
+	- [ ] implement OAuth2 authentication
+	- [ ] implement Managed Identities for Azure resources Service Principal authentication
+- [ ] Implement secure data solutions
+	- [ ] encrypt and decrypt data at rest and in transit
+	- [ ] encrypt data with Always Encrypted
+	- [ ] implement Azure Confidential Compute
+	- [ ] implement SSL/TLS communications
+	- [ ] create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
