@@ -19,6 +19,12 @@
 - [ ] Implement multi factor authentication
 - [ ] Manage role-based access control
 
+### Develop for the cloud and for Azure storage (15-20%)
+- [ ] Configure a message-based integration architecture
+- [ ] Develop for autoscaling
+- [ ] Develop solutions that use Cosmos DB storage
+- [ ] Develop solutions that use a relational database
+
 ### Create and deploy apps (5-10%)
 - [ ] Create web apps by using PaaS
 - [ ] Design and develop apps that run in containers
@@ -27,9 +33,3 @@
 - [ ] Implement authentication
 - [ ] Windows-integrated authentication
 - [ ] Implement secure data solutions
-
-### Develop for the cloud and for Azure storage (15-20%)
-- [ ] Configure a message-based integration architecture
-- [ ] Develop for autoscaling
-- [ ] Develop solutions that use Cosmos DB storage
-- [ ] Develop solutions that use a relational database
