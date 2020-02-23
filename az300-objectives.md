@@ -21,8 +21,8 @@
 		- [data redundancy options](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 	- [x] [generate shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
 	- [ ] implement Azure AD authentication for storage
-	- [ ] install and use Azure Storage Explorer
-	- [ ] manage access keys
+	- [x] install and use Azure Storage Explorer
+	- [x] manage access keys
 	- [ ] monitor activity log by using Azure Monitor logs
 	- [ ] implement Azure storage replication
 	- [ ] implement Azure storage account failover
