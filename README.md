@@ -2,8 +2,8 @@
 This repo is dedicated to capturing notes and resources for studying for the Azure Solution Architect Expert.
 
 ## Exams Required:
-* AZ300 - [Azure Architect Technologies](./az300-objectives.md)
-* AZ301 - [Azure Architect Design](./az301-plan.md)
+* AZ300 - [Azure Architect Technologies](./az300/az300-objectives.md)
+* AZ301 - [Azure Architect Design](./az301/az301-objectives.md)
 
 ## Other Links
 * [Other Resources](./resources.md)
